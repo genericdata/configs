@@ -92,6 +92,7 @@ jobs:
           - "munin"
           - "nci_gadi"
           - "nu_genomics"
+          - "nyu_hpc"
           - "oist"
           - "pasteur"
           - "pawsey_nimbus"
